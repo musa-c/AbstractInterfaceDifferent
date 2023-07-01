@@ -1,0 +1,15 @@
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\AbstractInterfaceProject\AbstractInterfaceProject\bin\Debug\net7.0\AbstractInterfaceProject.exe
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\AbstractInterfaceProject\AbstractInterfaceProject\bin\Debug\net7.0\AbstractInterfaceProject.deps.json
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\AbstractInterfaceProject\AbstractInterfaceProject\bin\Debug\net7.0\AbstractInterfaceProject.runtimeconfig.json
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\AbstractInterfaceProject\AbstractInterfaceProject\bin\Debug\net7.0\AbstractInterfaceProject.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\AbstractInterfaceProject\AbstractInterfaceProject\bin\Debug\net7.0\AbstractInterfaceProject.pdb
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\AbstractInterfaceProject\AbstractInterfaceProject\obj\Debug\net7.0\AbstractInterfaceProject.csproj.AssemblyReference.cache
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\AbstractInterfaceProject\AbstractInterfaceProject\obj\Debug\net7.0\AbstractInterfaceProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\AbstractInterfaceProject\AbstractInterfaceProject\obj\Debug\net7.0\AbstractInterfaceProject.AssemblyInfoInputs.cache
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\AbstractInterfaceProject\AbstractInterfaceProject\obj\Debug\net7.0\AbstractInterfaceProject.AssemblyInfo.cs
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\AbstractInterfaceProject\AbstractInterfaceProject\obj\Debug\net7.0\AbstractInterfaceProject.csproj.CoreCompileInputs.cache
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\AbstractInterfaceProject\AbstractInterfaceProject\obj\Debug\net7.0\AbstractInterfaceProject.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\AbstractInterfaceProject\AbstractInterfaceProject\obj\Debug\net7.0\refint\AbstractInterfaceProject.dll
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\AbstractInterfaceProject\AbstractInterfaceProject\obj\Debug\net7.0\AbstractInterfaceProject.pdb
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\AbstractInterfaceProject\AbstractInterfaceProject\obj\Debug\net7.0\AbstractInterfaceProject.genruntimeconfig.cache
+D:\yazılım geliştirici yetiştirme kampı\kendi denemelerim\AbstractInterfaceProject\AbstractInterfaceProject\obj\Debug\net7.0\ref\AbstractInterfaceProject.dll
